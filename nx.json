@@ -1,5 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "NX_PLUGIN_NO_TIMEOUTS": true,
   "namedInputs": {
     "default": [
       "{projectRoot}/**/*",
